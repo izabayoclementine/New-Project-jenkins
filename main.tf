@@ -1,4 +1,3 @@
-#commit
 terraform {
   required_providers {
     local = {
